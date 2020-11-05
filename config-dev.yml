@@ -1,2 +1,4 @@
 config:
   info: 9999999999
+server:
+  port: 8000
